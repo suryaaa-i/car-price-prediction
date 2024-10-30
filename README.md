@@ -48,3 +48,9 @@ Integrate the model into a web application for a more user-friendly experience.
 Explore other machine learning algorithms for potentially improved performance.
 Regularly update the model with new data to maintain accuracy.
 This README.md provides a comprehensive overview of your project, making it easier for potential users and contributors to understand its purpose, functionality, and usage instructions. Feel free to customize it further as your project evolves!
+
+![Screenshot (13)](https://github.com/user-attachments/assets/43494d9a-e493-4141-855f-bdd33ceb93a1)
+![Screenshot (10)](https://github.com/user-attachments/assets/c4a33735-28b8-454d-af88-81d298a1f882)
+![Screenshot (11)](https://github.com/user-attachments/assets/a1ffb040-ab08-4805-a611-c6c58da3e049)
+![Screenshot (12)](https://github.com/user-attachments/assets/b5d422ab-b466-45af-b8ab-5cb10acbae3f)
+
